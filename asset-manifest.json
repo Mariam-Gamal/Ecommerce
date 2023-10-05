@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Ecommerce/static/css/main.fb0cd8fc.css",
+    "main.js": "/Ecommerce/static/js/main.98972057.js",
+    "static/media/fa-solid-900.ttf": "/Ecommerce/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/Ecommerce/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/Ecommerce/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/Ecommerce/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/error.svg": "/Ecommerce/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/fa-regular-400.ttf": "/Ecommerce/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "/Ecommerce/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/slide-5.jpg": "/Ecommerce/static/media/slide-5.96a08320f0007d30af67.jpg",
+    "static/media/slide-3.jpg": "/Ecommerce/static/media/slide-3.d97d01f6b579324b1cd6.jpg",
+    "static/media/slide-4.jpg": "/Ecommerce/static/media/slide-4.941f444ea4800c7f2e40.jpg",
+    "static/media/freshcart-logo.svg": "/Ecommerce/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.ttf": "/Ecommerce/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Ecommerce/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/slick.svg": "/Ecommerce/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Ecommerce/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Ecommerce/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Ecommerce/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Ecommerce/index.html",
+    "main.fb0cd8fc.css.map": "/Ecommerce/static/css/main.fb0cd8fc.css.map",
+    "main.98972057.js.map": "/Ecommerce/static/js/main.98972057.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb0cd8fc.css",
+    "static/js/main.98972057.js"
+  ]
+}
