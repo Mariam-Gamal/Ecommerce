@@ -5,7 +5,6 @@ import { CartContext } from "../../Context/CartContext";
 import { Bars } from  'react-loader-spinner';
 import { Helmet } from "react-helmet";
 
-
 export default function Payment() {
     let {onlinePayment , cartId} = useContext(CartContext);
     const[Loader , setLoader] = useState(false)
@@ -17,12 +16,13 @@ export default function Payment() {
    async function handleUserSubmit(values){
         console.log(values);
         setLoader(true);
-        let response = await onlinePayment(cartId , CurrentUrl , values);
+        let response = await onlinePayment(cartId , CurrentUrl + '/Ecommerc/#'  , values);
         console.log(response);
         console.log(response.session.url);
-
         window.open(response.session.url , '_blank');
+
         setLoader(false);
+
 
     }
 let formik = useFormik({

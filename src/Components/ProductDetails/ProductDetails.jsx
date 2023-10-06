@@ -22,7 +22,7 @@ export default function ProductDetails() {
       };
     
     let params = useParams();
-    // console.log(params.id);
+    // console.log(params);
 
 
 
